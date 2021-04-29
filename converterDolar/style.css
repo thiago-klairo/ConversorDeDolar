@@ -1,0 +1,41 @@
+
+body{
+    position: relative;
+    background-image: url("./imagens/dolar.jpg");
+  
+}
+
+#valor {
+    padding: 10px;
+   margin: auto;
+    display: block;
+    margin-bottom: 20px;
+    text-align: left;
+    
+    
+    
+}
+
+.container{
+    margin-top: 500px;
+    max-width: 500px;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif; 
+border: solid rgb(82, 82, 82) 2px;
+}
+#converter {
+    padding: 10px;
+    border: solid 2px rgb(82, 82, 82);
+    font-size: 24px;
+    color: rgb(82, 82, 82);;
+    font-family: sans-serif bold;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(82, 82, 82);
+}
